@@ -150,7 +150,7 @@ var config_data = `
       "defaultValue":"2"
     },
     { "name": "Died/Immobilized",
-      "code": "die",
+      "code": "di",
       "type": "bool"
     },
     { "name": "Tippy<br>(almost tipped over)",
